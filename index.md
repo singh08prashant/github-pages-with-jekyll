@@ -1,3 +1,2 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+<center> <h1> DSC SHARDA UNIVERSITY </h1> </center>
+<p> Developer Student Clubs (DSC) are community groups for students from any academic background in their undergraduate or graduate term. By joining a DSC, students build their professional and personal network, get access to Google developer resources, and work together to build solutions for local problems in a peer-to-peer learning environment. </p>
