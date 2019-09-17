@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: DSC Sharda University
+theme: minima
+author: DSC Sharda University
+email: singh08prashant@gmail.com
+description: Developer Student Clubs (DSC) are community groups for students from any academic background in their undergraduate or graduate term. 
+By joining a DSC, students build their professional and personal network, get access to Google developer resources,
+and work together to build solutions for local problems in a peer-to-peer learning environment.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @s08prashant
+github_username:  singh-08-prashant
 
 show_excerpts: true # set to false to remove excerpts on the homepage
